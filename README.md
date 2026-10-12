@@ -1,3 +1,5 @@
 ## Hi there 👋
 
-Making complicated things easy 
+### Working on
+
+🔨 [dotplasma](https://github.com/A-Murchison/dotplasma) — tools for managing and automating KDE Plasma setups
